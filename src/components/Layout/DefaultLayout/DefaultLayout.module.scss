@@ -9,4 +9,5 @@
 }
 .content {
     flex: 1;
+    width: calc(var(--default-layout-width) - 356px);
 }
